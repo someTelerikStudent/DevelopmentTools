@@ -1,0 +1,8 @@
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\bin\Debug\01.exe.config
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\bin\Debug\01.exe
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\bin\Debug\01.pdb
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\bin\Debug\log4net.dll
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\bin\Debug\log4net.xml
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\obj\Debug\01.exe
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01\obj\Debug\01.pdb

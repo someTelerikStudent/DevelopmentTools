@@ -1,0 +1,6 @@
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\03LinkToGitHub\obj\Debug\03.LinkToGitHub.csprojResolveAssemblyReference.cache
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\03LinkToGitHub\bin\Debug\03LinkToGitHub.exe.config
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\03LinkToGitHub\bin\Debug\03LinkToGitHub.exe
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\03LinkToGitHub\bin\Debug\03LinkToGitHub.pdb
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\03LinkToGitHub\obj\Debug\03LinkToGitHub.exe
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\03LinkToGitHub\obj\Debug\03LinkToGitHub.pdb

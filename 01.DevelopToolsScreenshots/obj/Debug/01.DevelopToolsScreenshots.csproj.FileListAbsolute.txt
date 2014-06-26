@@ -1,0 +1,6 @@
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01.DevelopToolsScreenshots\bin\01.SourceControlSystem.dll.config
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01.DevelopToolsScreenshots\bin\01.SourceControlSystem.dll
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01.DevelopToolsScreenshots\bin\01.SourceControlSystem.pdb
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01.DevelopToolsScreenshots\obj\Debug\01.DevelopToolsScreenshots.csprojResolveAssemblyReference.cache
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01.DevelopToolsScreenshots\obj\Debug\01.SourceControlSystem.dll
+E:\Telerik\01_Homeworks\09_HighQualityCode\13_DevelopmentTools\01.DevelopToolsScreenshots\obj\Debug\01.SourceControlSystem.pdb
